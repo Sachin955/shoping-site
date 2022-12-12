@@ -1,0 +1,18 @@
+
+
+.cart {
+    justify-content: center;
+}
+.cart-table thead th{
+    width: 150px;
+    outline: 1px solid black;
+    text-align: center; 
+}
+.cart-image{
+    width: 150px;
+    height: 150px;
+}
+
+
+
+

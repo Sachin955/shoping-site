@@ -1,0 +1,18 @@
+.header {
+    padding: 0px;
+    margin: 0px;
+    background-color: lightgreen;
+}
+.logo {
+    width:100px;  
+    border-radius: 8PX; 
+}
+
+
+.cart_image{
+    border-radius: 30px;
+}
+.nav-links .nav .nav-item {
+    text-decoration: none;
+}
+

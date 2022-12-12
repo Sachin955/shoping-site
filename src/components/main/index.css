@@ -1,0 +1,23 @@
+.section-img {
+    display: flex;
+    padding: 10px 0;
+    justify-content: space-between;
+}
+
+.add-btn {
+    background-color: lightgreen;
+    font-size: large;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+}
+.card {
+    width: 18rem;
+}
+
+/* contact css */
+.contact-form{
+    border: 1px solid red;
+    width: 500px;
+   
+}
