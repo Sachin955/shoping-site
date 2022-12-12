@@ -47,8 +47,9 @@ console.log(cartCount,"app")
     //   );
     // }
     // // setcartCount(cartCount === 0)
-    setCartItems(cartItems.filter(x => x.id !== product.id))
-    
+    setCartItems(cartItems.filter(x => x.id !== product.id)
+  )
+
     
 
   }
